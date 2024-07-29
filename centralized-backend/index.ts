@@ -1,7 +1,8 @@
 import Web3 from 'web3';
 import axios from 'axios';
 import { abi } from "./abi";
-
+// This file is basically a template from My side (in my project i have used the Index.js file) 
+// That is why the main Function part is commented out 
 const providerUrl = "wss://eth-goerli.g.alchemy.com/v2/u4LDb5PsjbhInoG7S5LHLHzYe85f2pU1";
 const contractAddress = "0x83cdb6ed4915be70805afb3dfeba6a1a677d1bfb";
 const webhookUrl = "https://your-dummy-fetch-url";
