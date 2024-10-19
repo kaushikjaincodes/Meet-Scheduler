@@ -1,7 +1,3 @@
-Sure! Here’s a sample README file for your decentralized meeting scheduler project based on smart contracts:
-
----
-
 # Decentralized Meeting Scheduler
 
 Decentralized Meeting Scheduler is a blockchain-based application designed to facilitate scheduling meetings in a secure, transparent, and tamper-proof manner using smart contracts. This project leverages the power of decentralization to ensure that meeting details are immutable and accessible only by authorized participants.
@@ -98,7 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [MetaMask](https://metamask.io/)
-
----
-
-Feel free to modify the content to fit your project specifics and personal preferences!
